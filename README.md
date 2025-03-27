@@ -1,16 +1,28 @@
-# grid_dashboard
+# flutter-grid-dashboard
 
-A new Flutter project.
+> This repository was created to complete an assignment for my *Mobile Development* subject.
 
-## Getting Started
+This is a simple Flutter app designed to learn and practice GridView in Flutter. The app implements a grid-based dashboard layout, displaying a structured grid menu.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Here are some screenshots of the app in action:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table>
+  <tr>
+    <td><b>Main Menu</b></td>
+    <td><b>Hotels Content</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://drive.google.com/uc?export=view&id=1zFVSBaVkyeLhFT-ly6HExEyGfh-_Dd2c" alt="main screen" width="320"></td>
+    <td><img src="https://drive.google.com/uc?export=view&id=1Yr6Z7skoI-dWn8WVRhoQVj1Im_fNzU60" alt="hotels content" width="320"></td>
+  </tr>
+  <tr>
+    <td><b>Flights Content</b></td>
+    <td><b>Trains Content</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://drive.google.com/uc?export=view&id=1k8aZkeV9V3Fz2RK16uTAFLAxb_6PEb7W" alt="flights content" width="320"></td>
+    <td><img src="https://drive.google.com/uc?export=view&id=1kJFJCLTjByTmQRkW2ZsLAKE1MXj7Qpce" alt="trains content" width="320"></td>
+  </tr>
+</table>
